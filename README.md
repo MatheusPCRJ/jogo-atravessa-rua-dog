@@ -1,6 +1,6 @@
-<h1 align="center">Jogo baseado no Freeway!</h1>
+<h1 align="center">Game Freeway! <img width="35px" src="https://user-images.githubusercontent.com/112782424/209587902-34c3d7b8-10ae-4797-b358-f694133c2f27.png" /></h1>
 
-<h6 align="center">Projeto realizado na plataforma  
+<h6 align="center">Projeto realizado com a plataforma de cursos da 
 <a href="https://www.alura.com.br/"  target="_blank">Alura </a></h6>
  
  
@@ -9,15 +9,15 @@
   <a href="#extras">Extras</a>&nbsp;&nbsp;&nbsp;
   <a href="#andamento">Andamento</a>&nbsp;&nbsp;&nbsp;
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
-    <a href="#jogar">Como jogar?</a>&nbsp;&nbsp;&nbsp;
+  <a href="#jogar">Como jogar?</a>&nbsp;&nbsp;&nbsp;
   <a href="#ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;
   <a href="#autor">Autor</a> 
 </div>
 
 
 <h2 id="sobre">Sobre 🔎</h2>
-  <h5>Projeto realizado com a plataforma Alura. Com uma ideia para refazer um jogo chamado Freeway que é bem antigo de 1981, utilizando Javascript, ajudando a desenvolver uma boa lógica de programação.<br>
-  Utilizamos o site   <a href="https://p5js.org/" target="_blank">p5js.org </a> para utilizar os conceitos básicos para jogos.</h5>
+  Projeto realizado com a plataforma Alura. Com uma ideia para refazer um jogo chamado Freeway que é bem antigo de 1981, utilizando Javascript, ajudando a desenvolver uma boa lógica de programação.<br>
+  Utilizamos o site   <a href="https://p5js.org/" target="_blank">p5js.org </a> para utilizar os conceitos básicos para jogos.
 
 
 
@@ -40,15 +40,21 @@
 <img src="https://user-images.githubusercontent.com/112782424/209587394-b8e4133c-b0de-420e-a0b4-a03d923da7bd.png" />
 </div>
 <br>
-<h2 id="jogar">Como jogar?<img width="35px" src="https://user-images.githubusercontent.com/112782424/209587902-34c3d7b8-10ae-4797-b358-f694133c2f27.png" /></h2>
-Muito simples!<br>
-Seu personagem é um cão, baseado no Krypto, personagem em quadrinhos. <br>
-Para movimenta-lo você utilizar as setas do teclado, é possível subir, descer, direita e esquerda! <br>
-Sua missão é chegar ao pote de ração, atravessando a rua sem que os carros atropele você. <br>
-Chegando ao outro lado da rua você ganha um ponto. <br>
-Mas se o carro encostar em você, perderá um ponto que ganhou. Obs: Se os pontos estiverem zerado, não é possível ficar -1 ponto. <br>
-O jogo contém música de fundo e faz sons ao ganhar ponto e perder. <br>
-Espero que goste, ABRAÇOS!
+
+
+<h2 id="jogar">Como jogar?
+ <img width="35px" src="https://user-images.githubusercontent.com/112782424/209587902-34c3d7b8-10ae-4797-b358-f694133c2f27.png" />
+</h2>
+ Muito simples!<br>
+ Seu personagem é um cão, baseado no Krypto, personagem em quadrinhos. <br>
+ Para movimenta-lo você utilizar as setas do teclado, é possível subir, descer, direita e esquerda! <br>
+ Sua missão é chegar ao pote de ração, atravessando a rua sem que os carros atropele você. <br>
+ Chegando ao outro lado da rua você ganha um ponto. <br>
+ Mas se o carro encostar em você, perderá um ponto que ganhou. Obs: Se os pontos estiverem zerado, não é possível ficar -1 ponto. <br>
+ O jogo contém música de fundo e faz sons ao ganhar ponto e perder. <br>
+ Espero que goste, ABRAÇOS!
+
+
 
 <h2 id="ferramentas">Ferramentas utilizadas nesse projeto 📚</h2>
 
